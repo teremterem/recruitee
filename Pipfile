@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+url = "https://pypi.rasa.com/simple"
+verify_ssl = true
+name = "rasa"
+
+[packages]
+rasa = "==2.8.7"
+rasa-x = "==0.42.2"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
