@@ -1,22 +1,51 @@
 version: "2.0"
-
 nlu:
 - intent: greet
-  examples: |
-    - hey
-    - hello
-    - hi
-    - hello there
-    - good morning
-    - good evening
-    - moin
-    - hey there
-    - let's go
-    - hey dude
-    - goodmorning
-    - goodevening
-    - good afternoon
+  examples:
+  - text: |
+      hey
+  - text: |
+      hello
+  - text: |
+      hi
+  - text: |
+      hello there
+  - text: |
+      good morning
+  - text: |
+      good evening
+  - text: |
+      moin
+  - text: |
+      hey there
+  - text: |
+      let's go
+  - text: |
+      hey dude
+  - text: |
+      goodmorning
+  - text: |
+      goodevening
+  - text: |
+      good afternoon
+  - text: |
+      Hi Oleksandr,
 
+      My name is David Gammon. I am an IT Recruiter with a company based in Toronto, Canada. We were hired to represent a Los Angeles, California based company building a development team in Ukraine. They are currently looking to hire a Python Developer with Optical recognition experience. 
+
+      Our client specializes in the development of a mobile-based product currently being used for personal in-home COVID testing and delivery of other medical services. We will provide you with the company name if you decide to apply for this position.
+
+      The job is full-time contract, you will be working from home and can be located anywhere in Ukraine.
+
+      I looked at your profile and was impressed with your skills and experience. I am hoping we can speak with you about this job opportunity. 
+
+      Please let me know if you would like to discuss this career opportunity further.   You can click on the link for calendar availability and choose a time that's convenient for you: [https://calendly.com/david-gammon/python](non-job-desc-url)
+
+      I look forward to hearing from you.
+
+      Regards,
+
+      David Gammon | 4FMV | 416-977-0032 x 2 | david.gammon@4fmv.ca
 - intent: goodbye
   examples: |
     - good afternoon
@@ -30,7 +59,6 @@ nlu:
     - see you around
     - bye bye
     - see you later
-
 - intent: affirm
   examples: |
     - yes
@@ -39,7 +67,6 @@ nlu:
     - of course
     - that sounds good
     - correct
-
 - intent: deny
   examples: |
     - no
@@ -49,7 +76,6 @@ nlu:
     - don't like that
     - no way
     - not really
-
 - intent: mood_great
   examples: |
     - perfect
@@ -66,7 +92,6 @@ nlu:
     - so so perfect
     - so good
     - so perfect
-
 - intent: mood_unhappy
   examples: |
     - my day was horrible
@@ -83,7 +108,6 @@ nlu:
     - extremly sad
     - so saad
     - so sad
-
 - intent: bot_challenge
   examples: |
     - are you a bot?
