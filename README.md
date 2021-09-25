@@ -19,6 +19,16 @@ sudo -E /usr/local/bin/helm upgrade \
     rasa-x-recruitee-one \
     rasa-x/rasa-x
 
+sudo -E kubectl --namespace recruitee get pods
 sudo -E kubectl --namespace recruitee get deployments
 sudo -E kubectl --namespace recruitee get services
+```
+
+```
+sudo -E kubectl --namespace recruitee create secret generic recruitee-postgres
+sudo -E kubectl --namespace recruitee edit secrets recruitee-postgres
+
+sudo -E /usr/local/bin/helm delete --namespace recruitee rasa-x-recruitee-one
+
+sudo -E /usr/local/bin/helm -n recruitee logs -f
 ```
