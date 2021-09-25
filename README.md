@@ -30,5 +30,5 @@ sudo -E kubectl --namespace recruitee edit secrets recruitee-postgres
 
 sudo -E /usr/local/bin/helm delete --namespace recruitee rasa-x-recruitee-one
 
-sudo -E /usr/local/bin/helm -n recruitee logs -f
+sudo -E kubectl -n recruitee logs -f
 ```
