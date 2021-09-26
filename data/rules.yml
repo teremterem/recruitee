@@ -2,12 +2,22 @@ version: "2.0"
 
 rules:
 
-- rule: Say goodbye anytime the user says goodbye
+- rule: Say thanks to everything (en)
   steps:
-  - intent: goodbye
-  - action: utter_goodbye
+  - intent: lang_en
+  - action: utter_thank_you_en
 
-- rule: Say 'I am a bot' anytime the user challenges
+- rule: Say thanks to everything (uk)
   steps:
-  - intent: bot_challenge
-  - action: utter_iamabot
+  - intent: lang_uk
+  - action: utter_thank_you_uk
+
+- rule: Say thanks to everything (ru)
+  steps:
+  - intent: lang_ru
+  - action: utter_thank_you_ru
+
+- rule: Say hi upon start
+  steps:
+  - intent: start
+  - action: utter_hi

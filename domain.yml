@@ -7,36 +7,25 @@ session_config:
 intents:
 - start:
     use_entities: true
-- greet:
+- lang_en:
     use_entities: true
-- goodbye:
+- lang_uk:
     use_entities: true
-- affirm:
-    use_entities: true
-- deny:
-    use_entities: true
-- mood_great:
-    use_entities: true
-- mood_unhappy:
-    use_entities: true
-- bot_challenge:
+- lang_ru:
     use_entities: true
 entities: []
 slots: {}
 responses:
-  utter_greet:
-  - text: Hey! How are you?
-  utter_cheer_up:
-  - image: https://i.imgur.com/nGF1K8f.jpg
-    text: 'Here is something to cheer you up:'
-  utter_did_that_help:
-  - text: Did that help you?
-  utter_happy:
-  - text: Great, carry on!
-  utter_goodbye:
-  - text: Bye
-  utter_iamabot:
-  - text: I am a bot, powered by Rasa.
+  utter_hi:
+  - text: Hi!
+  utter_thank_you_en:
+  - text: Thank you!
+  utter_thank_you_uk:
+  - text: Дякую!
+  utter_thank_you_ru:
+  - text: Спасибо!
+  utter_default:
+  - text: What? Anyways, thanks!
 actions: []
 forms: {}
 e2e_actions: []
