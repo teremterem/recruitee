@@ -17,7 +17,7 @@ entities: []
 slots: {}
 responses:
   utter_hi:
-  - text: Hi!
+  - text: Hi
   utter_thank_you_en:
   - text: Thank you!
   utter_thank_you_uk:
