@@ -1,7 +1,9 @@
 version: "2.0"
 nlu:
-- intent: lang_ru_en
+- intent: lang_ru
   examples:
+  - text: |
+      вот такой вариант есть. кстати: https://career.luxoft.com/careers/244183/senior-java-python-developer/
   - text: |
       И еще есть такой вариант)
       Description:
@@ -231,14 +233,10 @@ nlu:
       - You have a hands-on experience with Kubernetes.
 
       - You have experience designing, building and running distributed systems (e.g., microservices) in a production environment.
-- intent: lang_uk_barely
-  examples: |
-    - https://hire.withgoogle.com/public/jobs/intel471com/view/P_AAAAABkAACGJQmG0vKVGSB от
-- intent: lang_ru_barely
-  examples: |
-    - вот такой вариант есть. кстати: https://career.luxoft.com/careers/244183/senior-java-python-developer/
-- intent: land_uk_en
+- intent: land_uk
   examples:
+  - text: |
+      https://hire.withgoogle.com/public/jobs/intel471com/view/P_AAAAABkAACGJQmG0vKVGSB от
   - text: |
       new vacancy Lead Python/ E-Health innovation program / Intellias
       Привіт. Як справи ? 🙂  Олександр, Intellias працює над проектами E-Health innovation програми для Saudi Arabia, маємо нові вакансії: 
