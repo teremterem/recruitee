@@ -233,7 +233,7 @@ nlu:
       - You have a hands-on experience with Kubernetes.
 
       - You have experience designing, building and running distributed systems (e.g., microservices) in a production environment.
-- intent: land_uk
+- intent: lang_uk
   examples:
   - text: |
       https://hire.withgoogle.com/public/jobs/intel471com/view/P_AAAAABkAACGJQmG0vKVGSB от
