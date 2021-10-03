@@ -648,9 +648,9 @@ nlu:
   - text: |
       Привіт від Svitla!:)
 
-      У нас активна позиція - Senior Python Developer
+      У нас активна позиція - [Senior Python Developer](job_title)
 
-      https://svitla.com/career/senior-python-developer--2021-08-16-10-14
+      [https://svitla.com/career/senior-python-developer--2021-08-16-10-14](job_desc_url)
 
       Робота в офісі або віддалено!
 
@@ -664,13 +664,13 @@ nlu:
 
       Steelkiwi Inc. більше 10 років на ринку, нас близько 80 фахівців і працюємо ми в двох офісах: у Вінниці та Одесі, а взимку втікаємо на Балі. А також працюємо віддалено по всій Україні)
 
-      Все це я до чого! Хочу запросити вас в команду і пропоную вакансію Senior Python/Django Developer! (Можна віддалено)
-      https://steelkiwi.com/jobs/senior-python-djando-developer/
+      Все це я до чого! Хочу запросити вас в команду і пропоную вакансію [Senior Python/Django Developer](job_title)! (Можна віддалено)
+      [https://steelkiwi.com/jobs/senior-python-djando-developer/](job_desc_url)
 
-      Технології: Python 3, Django, DRF
-      DB: PostgreSQL (PostGIS), Redis, Elasticsearch
-      async: Celery + RabbitMQ / Redis
-      Docker, Git, AWS.
+      Технології: [Python 3](tech_skill), [Django](tech_skill), [DRF](tech_skill)
+      DB: [PostgreSQL](tech_skill) ([PostGIS](tech_skill)), [Redis](tech_skill), [Elasticsearch](tech_skill)
+      async: [Celery](tech_skill) + [RabbitMQ](tech_skill) / [Redis](tech_skill)
+      [Docker](tech_skill), [Git](tech_skill), [AWS](tech_skill).
 
       Проект: платформа, на якій можна об'єднати магазин, інвентар, і замовлення, оснащена знижками на доставку, автоматичною упаковкою і опціями перевізника, щоб спростити процес виконання замовлень.
 
@@ -678,16 +678,16 @@ nlu:
 
       Скажіть, ви зараз відкриті до пропозицій?
   - text: |
-      Python Technical Lead vacancy from Olga GlobalLogic
+      [Python Technical Lead](job_title) vacancy from Olga GlobalLogic
       , вітаю!
-      Мене звати Ольга, я сорсер компанії GlobalLogic. Хочу запропонувати вам позицію Python Technical Lead.
+      Мене звати Ольга, я сорсер компанії GlobalLogic. Хочу запропонувати вам позицію [Python Technical Lead](job_title).
       Буду вдячна, якщо ви приймите моє запрошення і я зможу докладніше вам розповісти про вакансію)
 
 
 
 
       , вітаю!
-      Мене звуть Ольга, я представляю компанію GlobalLogic. Хочу запропонувати вам вакансію Python Technical Lead.
+      Мене звуть Ольга, я представляю компанію GlobalLogic. Хочу запропонувати вам вакансію [Python Technical Lead](job_title).
 
       Проект - це хмарна платформа, яка об'єднує процес створення, управління і доставки різних типів медіа контенту від точок походження, творця / постачальника медіа контенту, до кінцевого споживача. Відкрита архітектура API дозволяє управляти всім своїм змістом в одному місці.
       Клієнт - світовий лідер в області засобів масової інформації та розважальних послуг для кіно, відео і онлайн-контенту. Офіційний партнер Амазону.
@@ -701,7 +701,7 @@ nlu:
 
       Важливий хороший англ, так як буде тісна взаємодія з клієнтом. Етапів співбесіди 2 - внутрішнє ТІ і КІ.
 
-      Детальніше можна ознайомитись за посиланням: https://www.globallogic.com/ua/careers/python-technical-lead-django-irc118652/
+      Детальніше можна ознайомитись за посиланням: [https://www.globallogic.com/ua/careers/python-technical-lead-django-irc118652/](job_desc_url)
 
       Що скажете?
 
