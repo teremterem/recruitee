@@ -414,7 +414,7 @@ nlu:
       З повагою,
       Вікторія
   - text: |
-      Python Engineer at Surprise.com
+      [Python Engineer](job_title) at Surprise.com
       Привіт!
 
       Я рекрутер у продуктовій компанії Surprise.com.
@@ -423,8 +423,8 @@ nlu:
 
 
 
-      Нас вже понад 60 людей у Львові і ми шукаємо Senior Python Developer в команду.
-      https://apply.workable.com/surprise/j/D99955EA9C/
+      Нас вже понад 60 людей у Львові і ми шукаємо [Senior Python Developer](job_title) в команду.
+      [https://apply.workable.com/surprise/j/D99955EA9C/](job_desc_url)
 
       Чи можемо детальніше поспілкуватися щодо цієї позиції?
 
@@ -435,7 +435,7 @@ nlu:
   - text: |
       привіт)
       я Макс і попереджаю - я рекрутер!!)))
-      маю ось таку вакансію Пайтон дева - https://jobs.dou.ua/companies/lvivsoft/vacancies/110180/
+      маю ось таку вакансію [Пайтон дева](job_title) - [https://jobs.dou.ua/companies/lvivsoft/vacancies/110180/](job_desc_url)
       Вилка 1.5-2.5К
       є пару стронг джунів яких потрібно трішки менеджити + ще трішки кодити)))
       Цікавить? Розказати детальніше?
