@@ -619,13 +619,13 @@ nlu:
       telegram: Diana_Savenko
       skype: Diana Savenko
   - text: |
-      Олександре, радий знайомству. Я шукаю Python розробників. Можу запропонувати різноманітні проекти в основному для сеніор-мідл рівня розробників
+      Олександре, радий знайомству. Я шукаю [Python розробників](job_title). Можу запропонувати різноманітні проекти в основному для [сеніор-мідл рівня розробників](job_title)
 
-      1.  Проект аналізу IoT даних. Python, Django, AWS. Розмовна англійська. Number of serverless microservices that leverage off AWS Lambda, EventBridge,Step Functions and SNS + SQS to process, store and analyze incoming IoT data. 
-      2. Створення маркетплейсу. Python, AWS, Lambda, AppSync, DynamoDB, Terraform, REST, SES, EventBridge, Cognito, GraphQL, Step Functions.
-      3. Проект для страхової швейцарської компанії Python, Django
-      4. Ecommerce проект продажу онлайн тренінгів Python, GraphQL, Saleor
-      5. Проект системи комунікації коучів Python, Django, AWS (розмовна англійська)
+      1.  Проект аналізу IoT даних. [Python](tech_skill), [Django](tech_skill), [AWS](tech_skill). Розмовна англійська. Number of [serverless](tech_skill) [microservices](tech_skill) that leverage off [AWS Lambda](tech_skill), [EventBridge](tech_skill),[Step Functions](tech_skill) and [SNS](tech_skill) + [SQS](tech_skill) to process, store and analyze incoming IoT data. 
+      2. Створення маркетплейсу. [Python](tech_skill), [AWS](tech_skill), [Lambda](tech_skill), [AppSync](tech_skill), [DynamoDB](tech_skill), [Terraform](tech_skill), [REST](tech_skill), [SES](tech_skill), [EventBridge](tech_skill), [Cognito](tech_skill), [GraphQL](tech_skill), [Step Functions](tech_skill).
+      3. Проект для страхової швейцарської компанії [Python](tech_skill), [Django](tech_skill)
+      4. Ecommerce проект продажу онлайн тренінгів [Python](tech_skill), [GraphQL](tech_skill), [Saleor](tech_skill)
+      5. Проект системи комунікації коучів [Python](tech_skill), [Django](tech_skill), [AWS](tech_skill) (розмовна англійська)
 
       На проектах є PM/BA/AQA,архітект
 
@@ -633,13 +633,13 @@ nlu:
 
       Чи не складно  Вам буде розглянути новий виклик?
   - text: |
-      SoftServe у пошуку Python engineer😊
+      SoftServe у пошуку [Python engineer](job_title)😊
       Олександре, добрий вечір👋🏼
       Я talent сорсер SoftServe.
 
-      Ми в пошуках Python інженера на проект для розробки веб-платформи data science та machine learning
+      Ми в пошуках [Python інженера](job_title) на проект для розробки веб-платформи data science та machine learning
 
-      Стек: Python, REST APIs, web development (preferably Tornado and ASyncIO), GIT, Kubernetes, Docker, Conda, Postgres (or comparable databases), SQLAlchemy. 
+      Стек: [Python](tech_skill), [REST APIs](tech_skill), [web development](tech_skill) (preferably [Tornado](tech_skill) and [ASyncIO](tech_skill)), [GIT](tech_skill), [Kubernetes](tech_skill), [Docker](tech_skill), [Conda](tech_skill), [Postgres](tech_skill) (or comparable databases), [SQLAlchemy](tech_skill). 
 
       Підкажіть, чи буде цікава ця вакансія?
 
