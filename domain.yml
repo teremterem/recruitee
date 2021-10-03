@@ -13,7 +13,10 @@ intents:
     use_entities: true
 - lang_ru:
     use_entities: true
-entities: []
+entities:
+- tech_skill
+- job_title
+- job_desc_url
 slots: {}
 responses:
   utter_hi:
