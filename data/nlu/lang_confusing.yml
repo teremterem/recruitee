@@ -238,6 +238,20 @@ nlu:
   - text: |
       https://hire.withgoogle.com/public/jobs/intel471com/view/P_AAAAABkAACGJQmG0vKVGSB от
   - text: |
+      Олександре, радий знайомству. Я шукаю [Python розробників](job_title). Можу запропонувати різноманітні проекти в основному для [сеніор-мідл рівня розробників](job_title)
+
+      1.  Проект аналізу IoT даних. [Python](tech_skill), [Django](tech_skill), [AWS](tech_skill). Розмовна англійська. Number of [serverless](tech_skill) [microservices](tech_skill) that leverage off [AWS Lambda](tech_skill), [EventBridge](tech_skill),[Step Functions](tech_skill) and [SNS](tech_skill) + [SQS](tech_skill) to process, store and analyze incoming IoT data. 
+      2. Створення маркетплейсу. [Python](tech_skill), [AWS](tech_skill), [Lambda](tech_skill), [AppSync](tech_skill), [DynamoDB](tech_skill), [Terraform](tech_skill), [REST](tech_skill), [SES](tech_skill), [EventBridge](tech_skill), [Cognito](tech_skill), [GraphQL](tech_skill), [Step Functions](tech_skill).
+      3. Проект для страхової швейцарської компанії [Python](tech_skill), [Django](tech_skill)
+      4. Ecommerce проект продажу онлайн тренінгів [Python](tech_skill), [GraphQL](tech_skill), [Saleor](tech_skill)
+      5. Проект системи комунікації коучів [Python](tech_skill), [Django](tech_skill), [AWS](tech_skill) (розмовна англійська)
+
+      На проектах є PM/BA/AQA,архітект
+
+      Також маємо варіанти в інших проектах для сеніор, мідл і джуніор розробників. 
+
+      Чи не складно  Вам буде розглянути новий виклик?
+  - text: |
       new vacancy Lead Python/ E-Health innovation program / Intellias
       Привіт. Як справи ? 🙂  Олександр, Intellias працює над проектами E-Health innovation програми для Saudi Arabia, маємо нові вакансії: 
       https://www.intellias.ua/vacancies-lead_python_developer
