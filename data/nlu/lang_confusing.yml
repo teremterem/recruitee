@@ -1,6 +1,6 @@
 version: "2.0"
 nlu:
-- intent: lang_uk
+- intent: lang_uk_confusing
   examples:
   - text: |
       Вітаю,
