@@ -514,7 +514,7 @@ nlu:
   - text: |
       Вітаю,
       Буду рада законектитись, а також хочу повідомити що JetSoftPro зараз в пошуках
-      Senior Python Dev. with Odoo knowledge
+      [Senior Python Dev.](job_title) with [Odoo](tech_skill) knowledge
       Скажи, будь ласка чи розглядаєш зараз для себе нові пропозиції по роботі ?
   - text: |
       [Senior Python Developer](job_title)
